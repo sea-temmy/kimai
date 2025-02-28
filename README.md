@@ -51,7 +51,7 @@ There are two [versions](https://www.kimai.org/documentation/versions.html) of K
 
 There are more documented ways for [on-premise hosting](https://www.kimai.org/documentation/chapter-on-premise.html). 
 
-And if you don't want to host Kimai, you can use [the Cloud version](https://www.kimai.cloud/) of it.
+And if you don't want to host Kimai JUST TRY THIIIIIIIIS, you can use [the Cloud version](https://www.kimai.cloud/) of it.
 
 ### Updating Kimai
 
